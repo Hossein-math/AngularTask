@@ -1,0 +1,9 @@
+.bg-magazine {
+  background-image: url("../../../assets/magazines.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+h2 {
+  font-family: Vazirmatn, sans-serif;
+}

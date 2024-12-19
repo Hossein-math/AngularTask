@@ -1,0 +1,10 @@
+.bg-newspaper {
+  background-image: url("https://static.standard.co.uk/2024/10/14/11/8dc560fba07adca11f2a060578268a58Y29udGVudHNlYXJjaGFwaSwxNzI4OTg4MTMw-2.43238484.jpg?crop=8:5,smart&quality=75&auto=webp&width=1000");
+  background-size: cover;
+  background-position: center;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+}
